@@ -1,0 +1,23 @@
+{
+  "id": "/registro-acesso/",
+  "name": "Serviço Txuna",
+  "short_name": "Txuna",
+  "description": "Acesso ao Serviço Txuna",
+  "start_url": "/registro-acesso/",
+  "scope": "/registro-acesso/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00aaff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
